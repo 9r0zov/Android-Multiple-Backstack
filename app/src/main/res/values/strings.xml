@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavTabBackStack</string>
+    <string name="next_fragment">next fragment</string>
+
+    <string name="tab_1_name">Tab 1</string>
+    <string name="tab_2_name">Tab 2</string>
+</resources>
