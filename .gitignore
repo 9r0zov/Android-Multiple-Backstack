@@ -10,3 +10,5 @@
 app/build/
 gradle/
 gradle.properties
+app/build.gradle
+gradlew
